@@ -1,0 +1,24 @@
+{
+  "name": "medium-osm-offlinemap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdyu1000/Medium-OSM-OfflineMap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdyu1000/Medium-OSM-OfflineMap/issues"
+  },
+  "homepage": "https://github.com/mdyu1000/Medium-OSM-OfflineMap#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mkdirp": "^0.5.1",
+    "request": "^2.88.0"
+  }
+}
